@@ -1,0 +1,38 @@
+[
+    {
+        "name":"fantam animals",
+        "250":{
+            "type":"ERC721",
+            "token":"",
+            "gateway":""
+        },
+        "1":{
+            "type":"ERC721",
+            "token":"",
+            "gateway":""
+        },
+        "43114":{
+            "type":"ERC721",
+            "token":"",
+            "gateway":""
+        }
+    },
+    {
+        "name":"autocolor",
+        "250":{
+            "type":"ERC721",
+            "token":"",
+            "gateway":""
+        },
+        "1":{
+            "type":"ERC721",
+            "token":"",
+            "gateway":""
+        },
+        "43114":{
+            "type":"ERC721",
+            "token":"",
+            "gateway":""
+        }
+    }
+]
