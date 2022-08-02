@@ -1,33 +1,44 @@
 [
     {
-        "name":"fantam animals",
-        "250":{
-            "type":"ERC721",
-            "token":"",
-            "gateway":""
+        "address": "0x8e734e30270292993dBE71c421ad2b128B6dAE11",
+        "gateway": "0xeb581140a7f1d6266a56f726a58de4c93a6d26a8",
+        "chainId": "1",
+        "decimals": null,
+        "destChains": {
+            "250": {
+                "name": "AUTOCOLOR_Technica",
+                "symbol": "ATOCLR",
+                "decimals": null,
+                "address": "0xA20E5236B810790F87382D29F11c86C6b68c9b06",
+                "gateway": "0x17e2e3d4a27e8e0790c85ff2ec13d001e749e49e",
+                "feePerTransaction": "500000000000"
+            }
         },
-        "1":{
-            "type":"ERC721",
-            "token":"",
-            "gateway":""
-        },
-        "43114":{
-            "type":"ERC721",
-            "token":"",
-            "gateway":""
-        }
+        "name": "AUTOCOLOR_Technica",
+        "routerToken": null,
+        "symbol": "ATOCLR",
+        "logoUrl": "",
+        "nfttype": "erc721"
     },
     {
-        "name":"autocolor",
-        "250":{
-            "type":"ERC721",
-            "token":"0xA20E5236B810790F87382D29F11c86C6b68c9b06",
-            "gateway":"0x17e2e3d4a27e8e0790c85ff2ec13d001e749e49e"
+        "address": "0xA20E5236B810790F87382D29F11c86C6b68c9b06",
+        "gateway": "0x17e2e3d4a27e8e0790c85ff2ec13d001e749e49e",
+        "chainId": "250",
+        "decimals": null,
+        "destChains": {
+            "1": {
+                "name": "AUTOCOLOR_Technica",
+                "symbol": "ATOCLR",
+                "decimals": null,
+                "address": "0x8e734e30270292993dBE71c421ad2b128B6dAE11",
+                "gateway": "0xeb581140a7f1d6266a56f726a58de4c93a6d26a8",
+                "feePerTransaction": "5000000000000000000"
+            }
         },
-        "1":{
-            "type":"ERC721",
-            "token":"0x8e734e30270292993dBE71c421ad2b128B6dAE11",
-            "gateway":"0xeb581140a7f1d6266a56f726a58de4c93a6d26a8"
-        }
+        "name": "AUTOCOLOR_Technica",
+        "routerToken": null,
+        "symbol": "ATOCLR",
+        "logoUrl": "",
+        "nfttype": "erc721"
     }
 ]
