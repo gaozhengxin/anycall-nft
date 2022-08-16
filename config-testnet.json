@@ -5,13 +5,13 @@
         "chainId": "97",
         "decimals": null,
         "destChains": {
-            "250": {
+            "4002": {
                 "name": "FANTOMANIMALS",
                 "symbol": "FANTOMANIMALS",
                 "decimals": null,
-                "address": "0x4A15B980acff7d88543bcccB3e21109adabE0E0E",
-                "gateway": "0x26519EFC30494c20F435819910062a607E0630a6",
-                "feePerTransaction": "500000000000"
+                "address": "0x599eaEF483958da53Da541190A78c7427E1D086F",
+                "gateway": "0x1BC84DB86ef36FADB86E5882d5445d5725394937",
+                "feePerTransaction": "50000000000000000"
             }
         },
         "name": "FANTOMANIMALS",
@@ -26,13 +26,13 @@
         "chainId": "4002",
         "decimals": null,
         "destChains": {
-            "1": {
+            "97": {
                 "name": "FANTOMANIMALS",
                 "symbol": "FANTOMANIMALS",
                 "decimals": null,
-                "address": "0x599eaEF483958da53Da541190A78c7427E1D086F",
-                "gateway": "0x1BC84DB86ef36FADB86E5882d5445d5725394937",
-                "feePerTransaction": "5000000000000000000"
+                "address": "0x4A15B980acff7d88543bcccB3e21109adabE0E0E",
+                "gateway": "0x26519EFC30494c20F435819910062a607E0630a6",
+                "feePerTransaction": "50000000000000000"
             }
         },
         "name": "FANTOMANIMALS",
