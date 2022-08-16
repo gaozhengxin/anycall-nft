@@ -191,10 +191,7 @@ contract ERC721Gateway_MintBurn is ERC721Gateway {
         require(success);
     }
 
-    constructor (address anyCallProxy, address token) ERC721Gateway(anyCallProxy, 0, token) {
-        if (block.chainid == 1) {
-            priceTable[250] = 500 gwei;
-        }
+    constructor (address anyCallProxy, address token) ERC721Gateway(anyCallProxy, 2, token) {
     }
 
     function _swapout(uint256 tokenId, uint256 chainId) internal override virtual returns (bool, bytes memory) {

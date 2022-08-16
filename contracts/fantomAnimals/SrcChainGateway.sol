@@ -210,11 +210,7 @@ contract ERC721Gateway_LILO is ERC721Gateway, IERC721Receiver {
         return IERC721Receiver.onERC721Received.selector;
     }
 
-    constructor (address anyCallProxy, address token) ERC721Gateway(anyCallProxy, 0, token) onlyAdmin {
-        if (block.chainid == 250) {
-            priceTable[1] = 5 ether;
-            priceTable[43114] = 0.1 ether;
-        }
+    constructor (address anyCallProxy, address token) ERC721Gateway(anyCallProxy, 2, token) onlyAdmin {
     }
 
     function _swapout(uint256 tokenId, uint256 chainID) internal override virtual returns (bool, bytes memory) {
