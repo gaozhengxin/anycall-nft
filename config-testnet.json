@@ -9,8 +9,8 @@
                 "name": "FANTOMANIMALS",
                 "symbol": "FANTOMANIMALS",
                 "decimals": null,
-                "address": "0x599eaEF483958da53Da541190A78c7427E1D086F",
-                "gateway": "0x1BC84DB86ef36FADB86E5882d5445d5725394937",
+                "address": "0x73178fcEB736A9d6c1A9EF1fe413F09CbA2D4a68",
+                "gateway": "0xd13eB71515DC48a8a367D12F844e5737bab415dF",
                 "feePerTransaction": "50000000000000000"
             }
         },
@@ -21,8 +21,8 @@
         "nfttype": "erc721"
     },
     {
-        "address": "0x599eaEF483958da53Da541190A78c7427E1D086F",
-        "gateway": "0x1BC84DB86ef36FADB86E5882d5445d5725394937",
+        "address": "0x73178fcEB736A9d6c1A9EF1fe413F09CbA2D4a68",
+        "gateway": "0xd13eB71515DC48a8a367D12F844e5737bab415dF",
         "chainId": "4002",
         "decimals": null,
         "destChains": {
