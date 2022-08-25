@@ -1,7 +1,7 @@
 [
     {
         "address": "0x8e734e30270292993dBE71c421ad2b128B6dAE11",
-        "gateway": "0xeb581140a7f1d6266a56f726a58de4c93a6d26a8",
+        "gateway": "0xdBd21429E02D7086E40E8052A556c394cbA2E117",
         "chainId": "1",
         "decimals": null,
         "destChains": {
@@ -10,7 +10,7 @@
                 "symbol": "ATOCLR",
                 "decimals": null,
                 "address": "0xA20E5236B810790F87382D29F11c86C6b68c9b06",
-                "gateway": "0x17e2e3d4a27e8e0790c85ff2ec13d001e749e49e",
+                "gateway": "0x700843380021776970A28A7A74dA3E5908755FCc",
                 "feePerTransaction": "500000000000"
             }
         },
@@ -22,7 +22,7 @@
     },
     {
         "address": "0xA20E5236B810790F87382D29F11c86C6b68c9b06",
-        "gateway": "0x17e2e3d4a27e8e0790c85ff2ec13d001e749e49e",
+        "gateway": "0x700843380021776970A28A7A74dA3E5908755FCc",
         "chainId": "250",
         "decimals": null,
         "destChains": {
@@ -31,7 +31,7 @@
                 "symbol": "ATOCLR",
                 "decimals": null,
                 "address": "0x8e734e30270292993dBE71c421ad2b128B6dAE11",
-                "gateway": "0xeb581140a7f1d6266a56f726a58de4c93a6d26a8",
+                "gateway": "0xdBd21429E02D7086E40E8052A556c394cbA2E117",
                 "feePerTransaction": "5000000000000000000"
             }
         },
