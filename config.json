@@ -11,7 +11,7 @@
                 "decimals": null,
                 "address": "0xA20E5236B810790F87382D29F11c86C6b68c9b06",
                 "gateway": "0x700843380021776970A28A7A74dA3E5908755FCc",
-                "feePerTransaction": "500000000000"
+                "feePerTransaction": "600000000000000"
             }
         },
         "name": "AUTOCOLOR_Technica",
