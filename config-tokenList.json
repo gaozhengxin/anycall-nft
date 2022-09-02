@@ -10,5 +10,22 @@
             "token": "0x8e734e30270292993dBE71c421ad2b128B6dAE11",
             "gateway": "0xdBd21429E02D7086E40E8052A556c394cbA2E117"
         }
+    },
+    "FANTOM_ANIMALS": {
+        "250": {
+            "type": "ERC721",
+            "token": "0x8F4CAbcD3d3EB5e04C793076F1B72Da1F4751d31",
+            "gateway": "0x92804831aC036Ca77D57Db8BBA0E522Cd35a8049 "
+        },
+        "1": {
+            "type": "ERC721",
+            "token": "0x6bd3feef505256b01f0b0bf7b89124b80c5e08d3",
+            "gateway": "0xdBd21429E02D7086E40E8052A556c394cbA2E117"
+        },
+        "43114": {
+            "type": "ERC721",
+            "token": "0x8e734e30270292993dBE71c421ad2b128B6dAE11",
+            "gateway": "0xdBd21429E02D7086E40E8052A556c394cbA2E117"
+        }
     }
 }

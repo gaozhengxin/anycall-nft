@@ -40,5 +40,92 @@
         "symbol": "ATOCLR",
         "logoUrl": "",
         "nfttype": "erc721"
+    },
+    {
+        "address": "0x8F4CAbcD3d3EB5e04C793076F1B72Da1F4751d31",
+        "gateway": "0x92804831aC036Ca77D57Db8BBA0E522Cd35a8049 ",
+        "chainId": "250",
+        "decimals": null,
+        "destChains": {
+            "1": {
+                "name": "Fantom Animals",
+                "symbol": "Fantom",
+                "decimals": null,
+                "address": "0x6bd3feef505256b01f0b0bf7b89124b80c5e08d3",
+                "gateway": "0x1545473701f011a5c977e48AC43E1404cDF96f11",
+                "feePerTransaction": "50000000000000000000"
+            },
+            "43114": {
+                "name": "Fantom Animals",
+                "symbol": "Fantom",
+                "decimals": null,
+                "address": "0x3cB1967b36C318510CC06Ab901b428A166bb6dDA",
+                "gateway": "0x17e2e3d4a27e8e0790c85fF2ec13D001e749E49E",
+                "feePerTransaction": "100000000000000000"
+            }
+        },
+        "name": "Fantom Animals",
+        "routerToken": null,
+        "symbol": "Fantom",
+        "logoUrl": "",
+        "nfttype": "erc721"
+    },
+    {
+        "address": "0x6bd3feef505256b01f0b0bf7b89124b80c5e08d3",
+        "gateway": "0x1545473701f011a5c977e48AC43E1404cDF96f11",
+        "chainId": "1",
+        "decimals": null,
+        "destChains": {
+            "250": {
+                "name": "Fantom Animals",
+                "symbol": "Fantom",
+                "decimals": null,
+                "address": "0x8F4CAbcD3d3EB5e04C793076F1B72Da1F4751d31",
+                "gateway": "0x92804831aC036Ca77D57Db8BBA0E522Cd35a8049 ",
+                "feePerTransaction": "500000000000"
+            },
+            "43114": {
+                "name": "Fantom Animals",
+                "symbol": "Fantom",
+                "decimals": null,
+                "address": "0x3cB1967b36C318510CC06Ab901b428A166bb6dDA",
+                "gateway": "0x17e2e3d4a27e8e0790c85fF2ec13D001e749E49E",
+                "feePerTransaction": "20000000000000"
+            }
+        },
+        "name": "Fantom Animals",
+        "routerToken": null,
+        "symbol": "Fantom",
+        "logoUrl": "",
+        "nfttype": "erc721"
+    },
+    {
+        "address": "0x3cB1967b36C318510CC06Ab901b428A166bb6dDA",
+        "gateway": "0x17e2e3d4a27e8e0790c85fF2ec13D001e749E49E",
+        "chainId": "43114",
+        "decimals": null,
+        "destChains": {
+            "250": {
+                "name": "Fantom Animals",
+                "symbol": "Fantom",
+                "decimals": null,
+                "address": "0x8F4CAbcD3d3EB5e04C793076F1B72Da1F4751d31",
+                "gateway": "0x92804831aC036Ca77D57Db8BBA0E522Cd35a8049 ",
+                "feePerTransaction": "50000000000000"
+            },
+            "1": {
+                "name": "Fantom Animals",
+                "symbol": "Fantom",
+                "decimals": null,
+                "address": "0x6bd3feef505256b01f0b0bf7b89124b80c5e08d3",
+                "gateway": "0x1545473701f011a5c977e48AC43E1404cDF96f11",
+                "feePerTransaction": "1000000000000000000"
+            }
+        },
+        "name": "Fantom Animals",
+        "routerToken": null,
+        "symbol": "Fantom",
+        "logoUrl": "",
+        "nfttype": "erc721"
     }
 ]
