@@ -20,12 +20,12 @@
         "1": {
             "type": "ERC721",
             "token": "0x6bd3feef505256b01f0b0bf7b89124b80c5e08d3",
-            "gateway": "0xdBd21429E02D7086E40E8052A556c394cbA2E117"
+            "gateway": "0x1545473701f011a5c977e48AC43E1404cDF96f11"
         },
         "43114": {
             "type": "ERC721",
-            "token": "0x8e734e30270292993dBE71c421ad2b128B6dAE11",
-            "gateway": "0xdBd21429E02D7086E40E8052A556c394cbA2E117"
+            "token": "0x3cB1967b36C318510CC06Ab901b428A166bb6dDA",
+            "gateway": "0x17e2e3d4a27e8e0790c85fF2ec13D001e749E49E"
         }
     }
 }
