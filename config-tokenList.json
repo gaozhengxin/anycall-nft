@@ -27,5 +27,22 @@
             "token": "0x3cB1967b36C318510CC06Ab901b428A166bb6dDA",
             "gateway": "0x17e2e3d4a27e8e0790c85fF2ec13D001e749E49E"
         }
+    },
+    "MultichainVerseExplore": {
+        "10": {
+            "type": "ERC721",
+            "token": "0x750bfe8490175c2A9A9387b19Aa2AaE2d75dB638",
+            "gateway": "0x750bfe8490175c2A9A9387b19Aa2AaE2d75dB638"
+        },
+        "42161": {
+            "type": "ERC721",
+            "token": "0x90D5F3AA862f87598011E6eF511e4e8ED2F5f095",
+            "gateway": "0x90D5F3AA862f87598011E6eF511e4e8ED2F5f095"
+        },
+        "137": {
+            "type": "ERC721",
+            "token": "0x2210502051221A600D3653EccC899ECEeA11a0fD",
+            "gateway": "0x2210502051221A600D3653EccC899ECEeA11a0fD"
+        }
     }
 }

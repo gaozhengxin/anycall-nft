@@ -127,5 +127,92 @@
         "symbol": "Fantom",
         "logoUrl": "",
         "nfttype": "erc721"
+    },
+    {
+        "address": "0x750bfe8490175c2A9A9387b19Aa2AaE2d75dB638",
+        "gateway": "0x750bfe8490175c2A9A9387b19Aa2AaE2d75dB638",
+        "chainId": "10",
+        "decimals": null,
+        "destChains": {
+            "42161": {
+                "name": "MultichainVerse Explore",
+                "symbol": "MVE",
+                "decimals": null,
+                "address": "0x90D5F3AA862f87598011E6eF511e4e8ED2F5f095",
+                "gateway": "0x90D5F3AA862f87598011E6eF511e4e8ED2F5f095 ",
+                "feePerTransaction": "0"
+            },
+            "137": {
+                "name": "MultichainVerse Explore",
+                "symbol": "MVE",
+                "decimals": null,
+                "address": "0x2210502051221A600D3653EccC899ECEeA11a0fD",
+                "gateway": "0x2210502051221A600D3653EccC899ECEeA11a0fD",
+                "feePerTransaction": "0"
+            }
+        },
+        "name": "MultichainVerse Explore",
+        "routerToken": null,
+        "symbol": "MVE",
+        "logoUrl": "",
+        "nfttype": "erc721"
+    },
+    {
+        "address": "0x90D5F3AA862f87598011E6eF511e4e8ED2F5f095",
+        "gateway": "0x90D5F3AA862f87598011E6eF511e4e8ED2F5f095",
+        "chainId": "42161",
+        "decimals": null,
+        "destChains": {
+            "10": {
+                "name": "MultichainVerse Explore",
+                "symbol": "MVE",
+                "decimals": null,
+                "address": "0x750bfe8490175c2A9A9387b19Aa2AaE2d75dB638",
+                "gateway": "0x750bfe8490175c2A9A9387b19Aa2AaE2d75dB638 ",
+                "feePerTransaction": "0"
+            },
+            "137": {
+                "name": "MultichainVerse Explore",
+                "symbol": "MVE",
+                "decimals": null,
+                "address": "0x2210502051221A600D3653EccC899ECEeA11a0fD",
+                "gateway": "0x2210502051221A600D3653EccC899ECEeA11a0fD",
+                "feePerTransaction": "0"
+            }
+        },
+        "name": "MultichainVerse Explore",
+        "routerToken": null,
+        "symbol": "MVE",
+        "logoUrl": "",
+        "nfttype": "erc721"
+    },
+    {
+        "address": "0x2210502051221A600D3653EccC899ECEeA11a0fD",
+        "gateway": "0x2210502051221A600D3653EccC899ECEeA11a0fD",
+        "chainId": "42161",
+        "decimals": null,
+        "destChains": {
+            "10": {
+                "name": "MultichainVerse Explore",
+                "symbol": "MVE",
+                "decimals": null,
+                "address": "0x750bfe8490175c2A9A9387b19Aa2AaE2d75dB638",
+                "gateway": "0x750bfe8490175c2A9A9387b19Aa2AaE2d75dB638 ",
+                "feePerTransaction": "0"
+            },
+            "137": {
+                "name": "MultichainVerse Explore",
+                "symbol": "MVE",
+                "decimals": null,
+                "address": "0x90D5F3AA862f87598011E6eF511e4e8ED2F5f095",
+                "gateway": "0x90D5F3AA862f87598011E6eF511e4e8ED2F5f095",
+                "feePerTransaction": "0"
+            }
+        },
+        "name": "MultichainVerse Explore",
+        "routerToken": null,
+        "symbol": "MVE",
+        "logoUrl": "",
+        "nfttype": "erc721"
     }
 ]
